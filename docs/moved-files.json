@@ -1,0 +1,172 @@
+[
+  {
+    "original": "Custom Office Templates/Hearing-Decision.dotx",
+    "current": "archive/hearing-templates/Hearing-Decision.dotx",
+    "sha256": "6dba858e7f77c3ef069175a6bc9192a8c90d859940643e77996c479565d5b885"
+  },
+  {
+    "original": "Custom Office Templates/Notice-To-Competitors-Form.dotx",
+    "current": "templates/office-copies/Notice-To-Competitors-Form.dotx",
+    "sha256": "d8fb35437396573fb9f8c6a750e65443fd99b0770ecf0bcb3fae79ba8eb912b8"
+  },
+  {
+    "original": "Custom Office Templates/Protest-Worksheet-Form.dotx",
+    "current": "templates/office-copies/Protest-Worksheet-Form.dotx",
+    "sha256": "92da1a35ed7522de2eee87842038ccd27f0c6dbd03f84f93a9b320c3c2d7c60c"
+  },
+  {
+    "original": "Custom Office Templates/Request-for-Scoring-Review-Form.dotx",
+    "current": "templates/office-copies/Request-for-Scoring-Review-Form.dotx",
+    "sha256": "b7e32b4ce3c1a05e16c876f56c5f0e7379954cc6ad5719bf9c90e9473c209507"
+  },
+  {
+    "original": "Custom Office Templates/Signal-Boat-Summary-Form.dotx",
+    "current": "templates/office-copies/Signal-Boat-Summary-Form.dotx",
+    "sha256": "c7a9bd3f01873f8e27afa786021b81d66487e6464db335e9469094f4f9467e43"
+  },
+  {
+    "original": "Custom Office Templates/US Sailing Hearing Decision Template - V1 3-31-25.dotx",
+    "current": "archive/hearing-templates/US Sailing Hearing Decision Template - V1 3-31-25.dotx",
+    "sha256": "e4c90c6d00e3fc08cda252ebe1fa458277d1d0290ed90f5cb49bd726f0a05e17"
+  },
+  {
+    "original": "Race-Administration-Event-Package.dotx",
+    "current": "archive/root-copies/Race-Administration-Event-Package.dotx",
+    "sha256": "f283f2658e2865a045153c1d1e0b703a8e30d6178a2d1cb6d5850218f759059c"
+  },
+  {
+    "original": "Race-Administration-Forms.zip",
+    "current": "archive/Race-Administration-Forms.zip",
+    "sha256": "b0c569816e78947de143054ca221ea513f6a5991fceae1c0872cfc85e7550ad3"
+  },
+  {
+    "original": "Race-Administration-Forms/Fleet_Race_Rotations.docx",
+    "current": "forms/Fleet_Race_Rotations.docx",
+    "sha256": "981dfdba8e6c40d5b5d5d0f8523d56c8be3372435b1cb3321e0fd7ca6573dabd"
+  },
+  {
+    "original": "Race-Administration-Forms/Notice-To-Competitors-Form.docx",
+    "current": "forms/Notice-To-Competitors-Form.docx",
+    "sha256": "b40afd7b35de654a1cc184a0e17d794e2f7abf3d97a36fabb6ed9562358b9c7d"
+  },
+  {
+    "original": "Race-Administration-Forms/Notice-To-Competitors-Form.dotx",
+    "current": "templates/Notice-To-Competitors-Form.dotx",
+    "sha256": "d8fb35437396573fb9f8c6a750e65443fd99b0770ecf0bcb3fae79ba8eb912b8"
+  },
+  {
+    "original": "Race-Administration-Forms/Protest-Worksheet-Form.docx",
+    "current": "forms/Protest-Worksheet-Form.docx",
+    "sha256": "9d09d529caeafc5fdf78fc9bbf4fd55c118928c26ce1d60c7cadbfd740f31ffa"
+  },
+  {
+    "original": "Race-Administration-Forms/Protest-Worksheet-Form.dotx",
+    "current": "templates/Protest-Worksheet-Form.dotx",
+    "sha256": "92da1a35ed7522de2eee87842038ccd27f0c6dbd03f84f93a9b320c3c2d7c60c"
+  },
+  {
+    "original": "Race-Administration-Forms/ProtestTime.docx",
+    "current": "forms/ProtestTime.docx",
+    "sha256": "dc998ca6bd0a4e822143508e17485adb73c7355c1e8d74232affe6bde7cf6759"
+  },
+  {
+    "original": "Race-Administration-Forms/RCLog1.docx",
+    "current": "forms/RCLog1.docx",
+    "sha256": "1a5634a55082d975415ed8bef21705366d202566631abd60cd00632b7423c3d6"
+  },
+  {
+    "original": "Race-Administration-Forms/RCMarkRound.docx",
+    "current": "forms/RCMarkRound.docx",
+    "sha256": "c47d04e5d1fb8bf36a23d3dd624138276cacaf580ec428044289acac9a05a863"
+  },
+  {
+    "original": "Race-Administration-Forms/RCWindLog.docx",
+    "current": "forms/RCWindLog.docx",
+    "sha256": "b4535352682ef0d4e11db390fe3f6030b4a9b57a10142d6311b963b83918bcf9"
+  },
+  {
+    "original": "Race-Administration-Forms/RCactions.docx",
+    "current": "forms/RCactions.docx",
+    "sha256": "f652377188f74cdd3638fb42af977347f43691c1b4e88ce9129254ee444cfad3"
+  },
+  {
+    "original": "Race-Administration-Forms/RRS26Timer.docx",
+    "current": "forms/RRS26Timer.docx",
+    "sha256": "d13035292d3e18c68afae6bda24255cac9ae6e162b9c5dd8fb3ca7347d05904c"
+  },
+  {
+    "original": "Race-Administration-Forms/Race-Administration-Event-Package.docx",
+    "current": "packages/Race-Administration-Event-Package.docx",
+    "sha256": "2a4a73241f653a6d3927784daf377f6f5b6bcd19d65598ab2aee9fbcffae8ab5"
+  },
+  {
+    "original": "Race-Administration-Forms/Race-Administration-Event-Package.dotx",
+    "current": "packages/Race-Administration-Event-Package.dotx",
+    "sha256": "f283f2658e2865a045153c1d1e0b703a8e30d6178a2d1cb6d5850218f759059c"
+  },
+  {
+    "original": "Race-Administration-Forms/Read-Me.txt",
+    "current": "docs/original-readme.txt",
+    "sha256": "08b772dbfb919e87d9238f15bab59602e28ddaceacf2f75e0d8dfa1f5eb9f275"
+  },
+  {
+    "original": "Race-Administration-Forms/Request-for-Scoring-Review-Form.docx",
+    "current": "forms/Request-for-Scoring-Review-Form.docx",
+    "sha256": "bb452b3da2cdc0f52e7e306c80c2c5a6f7e8ab5b56a433b6654fada64153fdea"
+  },
+  {
+    "original": "Race-Administration-Forms/Request-for-Scoring-Review-Form.dotx",
+    "current": "templates/Request-for-Scoring-Review-Form.dotx",
+    "sha256": "b7e32b4ce3c1a05e16c876f56c5f0e7379954cc6ad5719bf9c90e9473c209507"
+  },
+  {
+    "original": "Race-Administration-Forms/Round_Robin_Rotations.docx",
+    "current": "forms/Round_Robin_Rotations.docx",
+    "sha256": "52db5479753d61adad26d940cf470ec8cde32fc3b43d90a2e12e83834d674f1b"
+  },
+  {
+    "original": "Race-Administration-Forms/ScoringReviewRequest-US-Sailing.docx",
+    "current": "forms/ScoringReviewRequest-US-Sailing.docx",
+    "sha256": "7928ddfa30f0a80147c2317eff14680dd8e4db35a052b1232fec6760ea2324c2"
+  },
+  {
+    "original": "Race-Administration-Forms/Signal-Boat-Summary-Form.docx",
+    "current": "forms/Signal-Boat-Summary-Form.docx",
+    "sha256": "fdae1d9218e13c108f1094b7d2ed74b008fd989155578e4042ff58875dc7d017"
+  },
+  {
+    "original": "Race-Administration-Forms/Signal-Boat-Summary-Form.dotx",
+    "current": "templates/Signal-Boat-Summary-Form.dotx",
+    "sha256": "c7a9bd3f01873f8e27afa786021b81d66487e6464db335e9469094f4f9467e43"
+  },
+  {
+    "original": "Race-Administration-Forms/Visio-Scoring_Form.docx",
+    "current": "forms/Visio-Scoring_Form.docx",
+    "sha256": "3fb6a53b9ccb318b830e27c4f3c1884b6c215fc991fb5ea6ca233d7e44442e50"
+  },
+  {
+    "original": "Race-Administration-Forms/scrpnlty.docx",
+    "current": "forms/scrpnlty.docx",
+    "sha256": "838792c2ad1a30285342287da05c21d4650822588c3fdcc38f4e60742c345e8a"
+  },
+  {
+    "original": "Race-Administration-Forms/trap_60_reach.docx",
+    "current": "forms/trap_60_reach.docx",
+    "sha256": "9d6b9c7cea36fee96b1089d0644196f5b5a77792febd1b435786b4f9455cb534"
+  },
+  {
+    "original": "Race-Administration-Forms/trap_70_reach.docx",
+    "current": "forms/trap_70_reach.docx",
+    "sha256": "b559c9d07d22babfa76241b3996cecb5aeaf5d736ae7c09fbc854d7fbae96405"
+  },
+  {
+    "original": "Race-Administration-Forms/wl-courses.docx",
+    "current": "forms/wl-courses.docx",
+    "sha256": "4fbb793159b18f81c7907921488c9ce51cd1b3273eaf479a3a0eeb91a985a995"
+  },
+  {
+    "original": "how2windlog.docx",
+    "current": "references/existing/how2windlog.docx",
+    "sha256": "db631682ac1587891d44577a0a9db33dbeac37e1f19c15ebd85dbf2bc81a6434"
+  }
+]

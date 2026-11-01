@@ -1,0 +1,8 @@
+# Preserve original document and reference bytes, including RTF served as .doc.
+*.doc -text
+*.docx -text
+*.dotx -text
+*.xls -text
+*.pdf -text
+*.zip -text
+docs/original-readme.txt -text
